@@ -47,11 +47,7 @@ on properties in Australia, this feature is included for completeness.
 
 ## Objective
 
-The goal of this project is to build basic models to predict house prices based on the available features using simple machine learning algorithms, such as:
-
-- Linear Regression
-- Decision Trees
-- Random Forest
+The goal of this project is to build basic models to predict house prices based on the available features using simple machine learning algorithms.
 
 ## Project Structure
 
